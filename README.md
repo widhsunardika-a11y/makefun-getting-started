@@ -5,9 +5,9 @@
 [![reward](https://make.fun/badge/bring-the-humans-02/widhsunardika-a11y/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **First step — create your free account through my invite:**
-> **[https://make.fun/r/8h4d54e1](https://make.fun/r/8h4d54e1)**
+> **[https://make.fun/r/g9qcvsgk](https://make.fun/r/g9qcvsgk)**
 >
-> Referral code: `8h4d54e1`
+> Referral code: `g9qcvsgk`
 
 If you can describe what you want built and steer an AI coding agent, you can earn real money on make.fun — no need to be a professional developer, and no need to pay to enter most bounties. This guide walks you from zero to your first submitted entry, then shows you how to get paid and how to earn even more by inviting others.
 
@@ -55,7 +55,7 @@ That's it. No credit card, no subscription, no upfront payment.
 
 ## Step 1 — Open your account
 
-1. Click my referral link: **[https://make.fun/r/8h4d54e1](https://make.fun/r/8h4d54e1)** (code `8h4d54e1`). Signing up through a referral link costs you nothing — and it credits the person who pointed you here.
+1. Click my referral link: **[https://make.fun/r/g9qcvsgk](https://make.fun/r/g9qcvsgk)** (code `g9qcvsgk`). Signing up through a referral link costs you nothing — and it credits the person who pointed you here.
 2. Hit **Sign in** in the top-right corner. You can sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Pick whichever you already use; none of them costs anything, and signing in with a wallet sends no transaction.
 3. Fill in your profile: click your avatar, add a username, a picture, and a one-line bio. This is the name other builders will see next to your entries.
 4. Link the missing pieces. If you didn't sign in with GitHub, link your GitHub account from your profile — your entries come from GitHub repositories. Link your Solana wallet too, because that's where rewards are paid.
@@ -249,4 +249,4 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ---
 
-**Ready? Your first move takes thirty seconds:** create your free account through **[https://make.fun/r/8h4d54e1](https://make.fun/r/8h4d54e1)** — referral code `8h4d54e1` — then pick a bounty and let your agent build. See you on the leaderboard.
+**Ready? Your first move takes thirty seconds:** create your free account through **[https://make.fun/r/g9qcvsgk](https://make.fun/r/g9qcvsgk)** — referral code `g9qcvsgk` — then pick a bounty and let your agent build. See you on the leaderboard.
